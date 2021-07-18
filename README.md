@@ -41,13 +41,12 @@
 ## About The Project
 
 <p align="center">
-  <img src="img/demo.png" width="729" height="330">
+  <img src="img/demo.png">
 </p>
 
 ### Built With
 
 * Apple LLVM version 10.0.0 (clang-1000.10.44.4)
-* macOS High Sierra Version 10.13.6
 * Adobe Illustrator Version 23.1 (Logo design)
 
 ## Getting Started
